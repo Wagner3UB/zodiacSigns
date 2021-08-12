@@ -9,7 +9,7 @@
 > IT - Un intero codice in JS Vanilla per mostrare un alerta con il segno del giorno .
 
 ✔ This code uses: 
-![JS](https://img.shields.io/badge/JavaScript-cccccc?style=plastic&logo=javascript&logoColor=FFFFFF)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=FFFFFF)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=FFFFFF) 
 
 ⚠ Site lang: EN
